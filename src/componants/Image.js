@@ -22,11 +22,6 @@ export default function Image() {
     )
 }
 
-function imgs(){
-    let url = "https://source.unsplash.com/random/200x200?sig=";
-    let array =[];
-    for (i = 0 ; i<)
 
 
-}
 
