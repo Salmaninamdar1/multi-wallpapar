@@ -1,11 +1,13 @@
 .img-container{
 
     display: flex;
+    /* all image flex or align in line like train */
     flex-wrap: wrap;
     justify-content: space-around;
+    /* justify use for horizantal adjestment */
     
 }
 .img-container img{
-    /* margin: 16px 0; */
+    /* margin: 1rem 0; */
     margin: 16px 0;
 }

@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1> pics-arts collection</h1>
+        <h1> Pics-Random Collection</h1>
         <Image />
       </header>
     </div>
